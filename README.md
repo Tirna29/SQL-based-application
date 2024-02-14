@@ -1,5 +1,5 @@
 # SQL-based-application
-Tech stack: SQL
+Tech stack: SQL    
 This application does not have an UI interface. However, these are the entities and operations of this application:
 - Entities
   - Users: A user account consists of a username and password as well as the user’s first
